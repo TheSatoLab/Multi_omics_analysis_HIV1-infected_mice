@@ -14,7 +14,7 @@ This script depends on the following environments and programs:
   * scipy
 * bedtools (v2.27.0)
 
-###Description of output file:
+### Description of output file (**res_enrichment_to_random_expectation.txt**):
 1. Chip_name: ChIP-Seq name
 2. Observed_count: Number of observed overlaps
 3. Enrichment: Fold enrichment on random expectation
@@ -33,5 +33,5 @@ Directory containing programs used in **batch\_pipeline.sh**.
 
 ## test_data
 Directory containing demo data.  
-In addition, the final output (**test.cell_count.txt**) of this pipeline is also included.
+In addition, the final output (**res_enrichment_to_random_expectation.txt**) of this pipeline is also included.
 
