@@ -15,7 +15,7 @@ This script depends on the following environments and programs:
 * bedtools (v2.27.0)
 * samtools (v1.7)
 
-### Description of output file (**test.cell_count.txt**):
+### Description of the final output file (**test.cell_count.txt**):
 1. Chrom: chromosome name
 2. Position: genomic position
 3. Strand: direction of HIV-1 IS
