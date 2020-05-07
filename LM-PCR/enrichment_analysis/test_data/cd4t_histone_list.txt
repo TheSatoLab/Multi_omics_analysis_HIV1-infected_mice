@@ -1,0 +1,5 @@
+E038-H3K27ac.narrowPeak
+E038-H3K27me3.narrowPeak
+E038-H3K4me1.narrowPeak
+E038-H3K4me3.narrowPeak
+E038-H3K9me3.narrowPeak
