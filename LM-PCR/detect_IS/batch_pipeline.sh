@@ -9,14 +9,14 @@
 #samtools (v1.7)
 
 
-#Removing the adaptor sequence with cutadapt
+#Removing the adaptor sequence
 cutadapt -m 1 \
   -b GATCGGAAGAGCGGTTCAGCAGGAATGCCGAGACCG \
   -O 5 \
   test_data/test_R1.fastq \
   -o test_data/test_R1.cutadapt.fastq
 
-#Extracting a read1 with "ViralEndSeq (i.e., TAGCA)" and excluding the ViralEndSeq and its upstream sequence from the read1
+#Extracting a read1 with "ViralEndSeq (i.e., TAGCA)" and excluding the viral sequence from the read1
 python2 programs/read_trimer.py \
   test_data/test_R1.cutadapt.fastq \
   TAGCA \
@@ -36,7 +36,7 @@ python2 programs/fastqCleaner.py \
 #Mapping read1 and read2 to the human reference sequence with the hiv-1 sequence
 bwa mem -t 4 \
         -M \
-        /media/jampei/backup/HD-LCU3/Works_with_SatoYorifumi/LMPCR/fasta/hg19_with_hiv1.fa \
+        <genome fasta path> \
         test_data/test_R1.clean.fastq \
         test_data/test_R2.clean.fastq \
         > test_data/test.sam
@@ -53,7 +53,7 @@ samtools view -Sh -F 268 -q 10 test_data/test.sam | \
 #Removing a sequence flagment with a read1 that is mapped to the genomic position next to the "ViralEndSeq (i.e., TAGCA)" in the human reference genome
 python2 programs/seqFinder.py \
   test_data/test.filtered.sam \
-  /media/jampei/backup/HD-LCU3/Works_with_SatoYorifumi/LMPCR/fasta/hg19_with_hiv1.fa \
+  <genome fasta path> \
   TAGCA \
   > test_data/test.filtered.rm_hum_TAGCA.sam
 
