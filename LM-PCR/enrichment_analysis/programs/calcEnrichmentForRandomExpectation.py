@@ -10,7 +10,7 @@ chip_dir = argvs[4]
 
 ######parameters########
 distance = 2000
-num_of_randomaization = 10 #1000
+num_of_randomaization = 1000
 ########################
 
 
