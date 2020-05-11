@@ -2,7 +2,7 @@
 
 This directory contains input files to analyse scRNA-Seq datas (GEO: DRA008999-DRA009013 & GEO: GSE126030).
 
-The analytical pipeline are described in detail elsewhere ([Aso, Nagaoka and Kawakami et al, Cell Reports, 2020]).
+The analytical pipeline are described in detail elsewhere (Aso, Nagaoka and Kawakami et al, Cell Reports, 2020).
 
 ## samole\.info\.txt
 Cellular information of scRNA-Seq data of HIV1-GFP infected humanized mice (GEO: DRA008999-DRA009013)
