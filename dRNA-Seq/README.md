@@ -12,7 +12,7 @@ The method to acquire the expression matrix of dRNA-Seq data is described in man
 Please see also a paper ([Tenno et al., J Exp Med., 2017] (https://doi.org/10.1084/jem.20170729)).
 
 ## Transcription factor target enrichment analysis
-Transcription factor target enrichment analysis was performed by weighted parametric gene set analysis (wPGSA) (Kawakami et al., Nucleic Acids Res., 2016).
+Transcription factor target enrichment analysis was performed by weighted parametric gene set analysis (wPGSA) [Kawakami et al., Nucleic Acids Res., 2016].
 
 
 
