@@ -1,6 +1,6 @@
 # Descriptions
 
-This directory contains programs to analyse scRNA-Seq data sets (GEO: DRA008999-DRA009013 & GEO: GSE126030).
+This directory contains programs to analyse scRNA-Seq data (GEO: DRA008999-DRA009013 & GEO: GSE126030).
 The analytical pipeline are described in detail elsewhere ([Aso, Nagaoka and Kawakami et al, Cell Reports, 2020]).
 
 ## main.sh

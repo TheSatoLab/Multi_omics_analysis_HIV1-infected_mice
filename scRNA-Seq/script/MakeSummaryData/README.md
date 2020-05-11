@@ -1,6 +1,6 @@
 # Descriptions
 
-This directory contains programs to acquire expression matrix from scRNA-Seq data of HIV1-GFP infected humanized mice (GEO: DRA008999-DRA009013).
+This directory contains programs to acquire expression matrix from raw scRNA-Seq data of HIV1-GFP infected humanized mice (GEO: DRA008999-DRA009013).
 
 ## main.sh
 Main script file  
