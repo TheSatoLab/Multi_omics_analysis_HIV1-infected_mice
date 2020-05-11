@@ -1,0 +1,3 @@
+Run	BioProject	BioSample	LibraryLayout	Organism	stimulation	tissue	donor	GSM
+SRR8526551	PRJNA520832	SAMN10868534	PAIRED	Homo_sapiens	rest	LN	Donor1	GSM3589410_PP005
+SRR8526557	PRJNA520832	SAMN10868528	PAIRED	Homo_sapiens	rest	LN	Donor2	GSM3589416_PP013
