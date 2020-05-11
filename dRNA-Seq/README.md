@@ -1,6 +1,6 @@
 # Descriptions
 
-Digital RNA-Sequencing (dRNA-Seq) ([Shiroguchi et al, PNAS, 2012](https://doi.org/10.1073/pnas.1118018109)) can accurately measure the absolute number of RNA molecules genome wide even from a small number of cells due to low noise and bias during the amplification and sequencing processes.
+Digital RNA-sequencing (dRNA-Seq) ([Shiroguchi et al, PNAS, 2012](https://doi.org/10.1073/pnas.1118018109)) can accurately measure the absolute number of RNA molecules genome wide even from a small number of cells due to low noise and bias during the amplification and sequencing processes.
 
 Raw data are depositted in GEO (GSE137644).
 
