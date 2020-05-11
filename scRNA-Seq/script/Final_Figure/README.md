@@ -7,8 +7,8 @@ Main script file
 Please execute this file at **script/** after executing "NatCom/main.sh"
 
 ## Usage
-´´´bash Final_Figure/main.sh
-´´´
+bash Final_Figure/main.sh
+
 
 This script depends on the following environments and programs:
 * Ubuntu (16.04 LTS)

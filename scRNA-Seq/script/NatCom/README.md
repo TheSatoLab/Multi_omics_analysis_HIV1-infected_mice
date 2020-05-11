@@ -8,8 +8,8 @@ Main script file
 Please execute this file at **script/** after executing "transcriptome/main.sh"
 
 ## Usage
-´´´bash NatCom/main.sh
-´´´
+bash NatCom/main.sh
+
 
 This script depends on the following environments and programs:
 * Ubuntu (16.04 LTS)

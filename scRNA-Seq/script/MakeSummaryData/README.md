@@ -7,8 +7,8 @@ Main script file
 Please execute this file at **script/**
 
 ## Usage
-´´´bash MakeSummaryData/main.sh
-´´´
+bash MakeSummaryData/main.sh
+
 
 This script depends on the following environments and programs:
 * Ubuntu (16.04 LTS)
