@@ -5,12 +5,13 @@ This directory contains programs to analyse scRNA-Seq data of CD4 T cells from h
 
 ## main.sh
 Main script file  
+
 Please execute this file at **script/** after executing "transcriptome/main.sh"
 
 ## Usage
 bash NatCom/main.sh
 
-
+## Dependencies
 This script depends on the following environments and programs:
 * Ubuntu (16.04 LTS)
 * python (v2.7.17)

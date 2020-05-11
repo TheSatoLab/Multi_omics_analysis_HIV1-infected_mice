@@ -4,12 +4,14 @@ This directory contains programs to acquire expression matrix from raw scRNA-Seq
 
 ## main.sh
 Main script file  
+
 Please execute this file at **script/**
 
 ## Usage
 bash MakeSummaryData/main.sh
 
 
+## Dependencies
 This script depends on the following environments and programs:
 * Ubuntu (16.04 LTS)
 * python (v2.7.17)
