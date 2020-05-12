@@ -1,4 +1,4 @@
 # Descriptions
 
-This is a repository of programs in the paper [Aso, Nagaoka, and Kawakami et al., Cell Reports, 2020].
+This is a repository of programs used in the paper [Aso, Nagaoka, and Kawakami et al., Cell Reports, 2020].
 
