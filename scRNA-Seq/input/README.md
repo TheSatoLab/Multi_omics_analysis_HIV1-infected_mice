@@ -1,15 +1,15 @@
 # Descriptions
 
-This directory contains input files to analyse scRNA-Seq datas (GEO: DRA008999-DRA009013 & GEO: GSE126030).
+This directory contains input files to analyse scRNA-Seq data (GEO: DRA008999-DRA009013 & GEO: GSE126030).
 
-The analytical pipeline are described in detail elsewhere (Aso, Nagaoka and Kawakami et al, Cell Reports, 2020).
+The analytical pipeline is described in detail elsewhere (Aso, Nagaoka and Kawakami et al, Cell Reports, 2020).
 
 ## sample\.info\.txt
 Cellular information of scRNA-Seq data of HIV1-GFP infected humanized mice (GEO: DRA008999-DRA009013)
 
 ## rawdata
 Fastq files are placed at this directory.
-Datas are available at GEO(DRA008999-DRA009013).
+Data are available at GEO(DRA008999-DRA009013).
 
 ## hg38_HIVGFP_RU3.fa
 The custom genome sequence comprises the sequence of the human reference genome (hg38) and a partial sequence of HIV1-GFP, in which untranscribed regions (5' U3 and 3' U5 sequences) were excluded.
