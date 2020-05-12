@@ -1,6 +1,6 @@
 # Descriptions
 
-materials for single cell RNA-Sequencing (scRNA-Seq) analysis
+Materials for single cell RNA-Sequencing (scRNA-Seq) analysis
 
 This directory contains two sub directories:
 1. **input** contains input files except raw scRNA-Seq data (GEO: DRA008999-DRA009013 & GEO: GSE126030).
