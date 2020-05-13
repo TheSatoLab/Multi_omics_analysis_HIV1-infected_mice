@@ -12,7 +12,7 @@ Fastq files are placed at this directory.
 Data are available at GEO(DRA008999-DRA009013).
 
 ## hg38_HIVGFP_RU3.fa
-The custom genome sequence comprises the sequence of the human reference genome (hg38) and a partial sequence of HIV1-GFP, in which untranscribed regions (5' U3 and 3' U5 sequences) were excluded.
+The custom genome sequence comprises the sequence of the human reference genome (hg38) and a partial sequence of HIV1-GFP (**input/NLCSFV3_EGFP_RU3.fa**), in which untranscribed regions (5' U3 and 3' U5 sequences) were excluded.
 
 This file is not in this repository because of file size limitation.
 
