@@ -16,10 +16,8 @@ The custom genome sequence comprises the sequence of the human reference genome 
 
 This file is not in this repository because of file size limitation.
 
-## gencode\.v22\.annotation\.without\_retained\_intron\_sorted\.unique\.Id\_HIVGFP\_RU3\_1row\.gtf
+## gencode\.v22\.annotation\.without\_retained\_intron\_sorted\.unique\.Id\_HIVGFP\_RU3\_1row\.gtf\.gz
 The gene annotation GENCODE (v22) (www.gencodegenes.org)
-
-This file is not in this repository because of file size limitation.
 
 ## NatCom\.txt
 Sample information for scRNA-Seq data of CD4 T cells from healthy donors (GEO: GSE126030)
